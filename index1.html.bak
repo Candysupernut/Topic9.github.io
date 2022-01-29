@@ -3,7 +3,7 @@
 	<head>
 		<title>Книги</title>
 		<meta charset="utf-8">
-		<link href="style.css" rel="stylesheet">
+		<link href="style2.css" rel="stylesheet">
 	</head>
 	<body>
 		<h1>Моє улюблене заняття</h1>
@@ -14,9 +14,9 @@
 	
 	<br><p class="text2">Любов до книг мені прищепили батьки. З дитинства ми відвідували бібліотеки та завжди брали по декілька книг одразу :). Єдиною проблемою є те, що вільного часу стає все менше і сьогодні я вже рідко коли читаю, а заплановані книги продовжують чекати на поличці :(.
 	Однак, коли нагода все таки випадає, я поринаю у світ фантазій та образів героїв, про яких читаю. Це дуже захоплює.
-	
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/FlTnz6J_Tv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+	<video controls>
+<source src= "Forest - 97998.mp4" >
+</video>
 	<br><br>У мене є багато улюблених книг, одна з яких називається "39 ключів".
 	 Ця книга — міжавторський цикл пригодницьких фантастичних романів, який розпочав автор Рік Ріордан. В першій серії описуються пригоди чотирнадцятирічної дівчини Емі і її одинадцятирічного брата Дена.</p>
 	 
@@ -33,3 +33,4 @@
 	
 	<br><br><p class="text6">Сайт виконав Владислав Жовновський :)</p>
 	</body>
+</html>
