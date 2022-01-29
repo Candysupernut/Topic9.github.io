@@ -1,0 +1,86 @@
+<<<<<<< HEAD
+body{
+	background-color:PaleGoldenrod;
+	font-family:Arial;
+	font-size:20px;
+	text-align:justify;
+}
+h1{
+	text-align:center;
+	text-shadow: 3px 5px gray;
+}
+.text1{
+	color:Olive;
+}
+.text3{
+	color:SaddleBrown;
+}
+.text4{
+	color:DimGrey;
+}
+.text6{
+	text-align:center;
+	font-weight:Bold;
+	color:Indigo;
+}
+.pic1{
+	width:20%;
+	margin:10px;
+	float:left;
+	box-shadow: 0 2px 20px black;
+}
+.pic2{
+	width:10%;
+	margin:10px;
+	float:right;
+	box-shadow: 0 2px 30px navy;
+}
+.pic3{
+	width:10%;
+	margin:10px;
+	float:left;
+	box-shadow: 0 2px 30px lightgreen;
+=======
+body{
+	background-color:PaleGoldenrod;
+	font-family:Arial;
+	font-size:20px;
+	text-align:justify;
+}
+h1{
+	text-align:center;
+	text-shadow: 3px 5px gray;
+}
+.text1{
+	color:Olive;
+}
+.text3{
+	color:SaddleBrown;
+}
+.text4{
+	color:DimGrey;
+}
+.text6{
+	text-align:center;
+	font-weight:Bold;
+	color:Indigo;
+}
+.pic1{
+	width:20%;
+	margin:10px;
+	float:left;
+	box-shadow: 0 2px 20px black;
+}
+.pic2{
+	width:10%;
+	margin:10px;
+	float:right;
+	box-shadow: 0 2px 30px navy;
+}
+.pic3{
+	width:10%;
+	margin:10px;
+	float:left;
+	box-shadow: 0 2px 30px lightgreen;
+>>>>>>> fa06f34b2d2301dd41b73dfa43623e4aa915477b
+}
